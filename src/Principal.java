@@ -36,6 +36,6 @@ public class Principal {
             }
             else{
                 System.out.println("escolha uma opção valida!");}
-        }
+        } /*PRIMEIRO LAÇO DE REPETIÇÃO*/
     }
 }
